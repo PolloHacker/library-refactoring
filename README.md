@@ -1,4 +1,4 @@
-[![tests](https://github.com/andrehora/library/actions/workflows/tests.yml/badge.svg)](https://github.com/andrehora/library/actions/workflows/tests.yml)
+[![tests](https://github.com/PolloHacker/library-refactoring/actions/workflows/tests.yml/badge.svg)](https://github.com/PolloHacker/library-refactoring/actions/workflows/tests.yml)
 
 # Library refactoring example
 
